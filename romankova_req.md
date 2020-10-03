@@ -16,8 +16,9 @@
 На информационных страницах сайта будет расположен компонент “плеер” с несколькими управляющими кнопками, иконки на которых однозначно сообщают пользователю об их назначении.
 В хедере файла будут размещены кнопки для перехода на страницы социальных сетей и для переключения языка с соответствующими иконками.
 
-![main_page](https://github.com/perekatypola/radiolamp/blob/main/radiolam.jpg)
+
 ![main_page](https://github.com/perekatypola/radiolamp/blob/main/radiolampa_sayt_chernovik.jpg)
+![main_page](https://github.com/perekatypola/radiolamp/blob/main/radiolam.jpg)
 
 ## 2.3. Характеристики пользователей
 
